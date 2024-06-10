@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39339cc5-bba7-439b-b2bd-d43f702e81fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/admin.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/aesthetic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/btd.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/chemtrails.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/choc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/girl.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/honeymoon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/ig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/lana.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/lana2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/lana3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/lana4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/lana5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/lana6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/rainypic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/student.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/tech.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/ult.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resources/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bimages/vector.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lana.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lana.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rowsassign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supercool.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supercool.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hBByidNcLGKJuDS9fs0bwOSTQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.forms.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/emobilis/PycharmProjects/violet/assets/resources",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/resources" />
+      <recent name="$PROJECT_DIR$/bimages" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="forms.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/violet/forms.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.forms.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39339cc5-bba7-439b-b2bd-d43f702e81fe" name="Changes" comment="" />
+      <created>1717057847140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717057847140</updated>
+      <workItem from="1717057850386" duration="3202000" />
+      <workItem from="1717061963736" duration="216000" />
+      <workItem from="1717062241856" duration="1752000" />
+      <workItem from="1717064042177" duration="235000" />
+      <workItem from="1717064298207" duration="165000" />
+      <workItem from="1717064476783" duration="1668000" />
+      <workItem from="1717066320525" duration="240000" />
+      <workItem from="1717142572805" duration="82000" />
+      <workItem from="1717142669436" duration="2574000" />
+      <workItem from="1717145257368" duration="4420000" />
+      <workItem from="1717149690620" duration="3389000" />
+      <workItem from="1717153085416" duration="77000" />
+      <workItem from="1717401947233" duration="8646000" />
+      <workItem from="1717475524308" duration="55000" />
+      <workItem from="1717488373590" duration="4379000" />
+      <workItem from="1717492768077" duration="5423000" />
+      <workItem from="1717562687248" duration="13000" />
+      <workItem from="1717574785835" duration="4703000" />
+      <workItem from="1717579522749" duration="4193000" />
+      <workItem from="1717587861883" duration="71000" />
+      <workItem from="1717661205154" duration="1577000" />
+      <workItem from="1717662800794" duration="82000" />
+      <workItem from="1718010838669" duration="1208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
